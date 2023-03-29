@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticField", "StaticField\StaticField.csproj", "{A2EFB752-0023-469F-ABA8-41FD10453F3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "This", "Thie\This.csproj", "{180F386A-496D-49A7-BA4E-1820904C17E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifier", "AccessModifier\AccessModifier.csproj", "{6AFEF69E-9A98-443C-91C1-1435E87D6583}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{A2EFB752-0023-469F-ABA8-41FD10453F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2EFB752-0023-469F-ABA8-41FD10453F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2EFB752-0023-469F-ABA8-41FD10453F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{180F386A-496D-49A7-BA4E-1820904C17E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180F386A-496D-49A7-BA4E-1820904C17E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180F386A-496D-49A7-BA4E-1820904C17E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180F386A-496D-49A7-BA4E-1820904C17E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AFEF69E-9A98-443C-91C1-1435E87D6583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AFEF69E-9A98-443C-91C1-1435E87D6583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AFEF69E-9A98-443C-91C1-1435E87D6583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AFEF69E-9A98-443C-91C1-1435E87D6583}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
