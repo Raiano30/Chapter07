@@ -48,7 +48,7 @@ namespace Inheritance
 
             Derived b = new Derived("b");
             b.BaseMethod();     //부모클래스의 메소드 발동
-            b.DerivedMethod();  
-        }
-    }//가비지컬렉터가 힙에있는 데이터 지워나간다. 역순으로 지운다. //자식의 종료자 발동 > 부모의 종료자 발동
+            b.DerivedMethod();
+        }//가비지컬렉터가 힙에있는 데이터 지워나간다. 역순으로 지운다. //자식의 종료자 발동 > 부모의 종료자 발동
+    }
 }
